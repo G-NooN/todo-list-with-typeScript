@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
+name: Custom Issue Template
 about: Issue Template
 title: "[이슈 타입] - 이슈 설명"
 labels: ''
-assignees: G-NooN
+assignees: ''
 
 ---
 
