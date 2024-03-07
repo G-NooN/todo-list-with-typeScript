@@ -28,6 +28,8 @@ export const GlobalStyle = createGlobalStyle`
     display: block;
   }
   body {
+    display: flex;
+    justify-content: center;
     line-height: 1.5;
   }
   ol, ul {
@@ -53,7 +55,7 @@ export const GlobalStyle = createGlobalStyle`
 
   :root {
     min-width: 320px;
-    max-width: 1280px;
+    max-width: 100%;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
   }
